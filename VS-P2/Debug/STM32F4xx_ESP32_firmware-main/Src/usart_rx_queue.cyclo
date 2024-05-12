@@ -1,0 +1,4 @@
+../STM32F4xx_ESP32_firmware-main/Src/usart_rx_queue.c:20:13:rx_queue_put	2
+../STM32F4xx_ESP32_firmware-main/Src/usart_rx_queue.c:25:16:rx_queue_get	3
+../STM32F4xx_ESP32_firmware-main/Src/usart_rx_queue.c:32:17:count	2
+../STM32F4xx_ESP32_firmware-main/Src/usart_rx_queue.c:37:21:getTaskHandle	1

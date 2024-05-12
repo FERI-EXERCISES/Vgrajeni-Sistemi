@@ -1,0 +1,2 @@
+../STM32F4xx_ESP32_firmware-main/Src/Wifi_MQTT_Example.c:32:6:createExampleTasks	1
+../STM32F4xx_ESP32_firmware-main/Src/Wifi_MQTT_Example.c:38:13:exampleTask	3

@@ -1,0 +1,17 @@
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:83:12:esp32_init	8
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:112:12:esp32_command	5
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:123:12:esp32_send_raw	5
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:139:13:esp32_command_long	7
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:171:12:esp32_response	5
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:190:19:esp32_capture	2
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:198:19:esp32_release	2
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:204:15:esp32_get_other	1
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:208:17:esp32_clear_response_queue	1
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:214:20:esp32_status_wait	5
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:219:13:esp32_confirm_transmission	2
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:223:12:esp32_add_redirect_handler	3
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:237:12:esp32_remove_redirect_handler	6
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:260:13:esp32_rx_task	27
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:358:13:esp32_init_task	8
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:419:26:getResponseType	24
+../STM32F4xx_ESP32_firmware-main/Src/esp32_manager.c:444:19:processOther	6
